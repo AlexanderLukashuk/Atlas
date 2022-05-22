@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.0.2",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.5",
+    "express-validator": "^6.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.1",
+    "prompt-sync": "^4.2.0",
+    "swagger-ui-express": "^4.4.0"
+  },
+  "name": "backend-sanya-rama",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderLukashuk/API_work_Sanya_Rama.git"
+  },
+  "keywords": [
+    "buddy"
+  ],
+  "author": "raptor and solomon",
+  "license": "ISC",
+  "engines": {
+    "node": "16.14.2",
+    "npm": "8.5.0",
+    "git": "2.35.1"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexanderLukashuk/API_work_Sanya_Rama/issues"
+  },
+  "homepage": "https://github.com/AlexanderLukashuk/API_work_Sanya_Rama#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
